@@ -1,15 +1,18 @@
-/* ------------------------------------------------------
-ESummit21 | IIIT ALLAHABAD
-https://error404m.github.io/esummit21/
------------------------------------------------------ */
+------------------------------------------------------
 
-/* --------------------------------
-To start 'Gulp' => npm run start
--------------------------------- */
+ESummit21 | IIIT ALLAHABAD
+>> https://error404m.github.io/esummit21/
+
+----------------------------------------------------- 
+
+
 
 File Structure:
+
 confer/
-└── src/
+
+└── Esummit IIIT ALLAHABAD/
+
     ├── css/
     │   ├── default-assets/
     │   ├── fonts/
