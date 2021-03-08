@@ -9,7 +9,7 @@ ESummit21 | IIIT ALLAHABAD
 
 File Structure:
 
-confer/
+
 
 └── Esummit IIIT ALLAHABAD/
 
