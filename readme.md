@@ -11,8 +11,7 @@ File Structure:
 
 
 
-└── Esummit IIIT ALLAHABAD/
-
+    ├──  Esummit IIIT ALLAHABAD
     ├── css/
     │   ├── default-assets/
     │   ├── fonts/
